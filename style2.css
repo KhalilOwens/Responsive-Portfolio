@@ -1,0 +1,38 @@
+body {
+    color: gray;
+    background: rgb(236, 235, 235);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.head {
+    background-color: teal;
+    color: white;
+    width: 33%;
+    font-size: 45px;
+    display: inline-block
+
+
+}
+
+span
+{   background-color: white;
+width: 65;}
+
+#main-container
+    {background-color: white;
+    width: 55%;}
+
+.Port
+        { color: teal;
+            text-decoration: underline;
+        }
+
+#connect{
+    
+    height: -20px;
+}
+
